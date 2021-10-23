@@ -6,9 +6,9 @@ Generate your new password fast and easy.
 
 There are two ways to install script:
 
-####1. Download the script from github by web using `Code` and then `Download ZIP` button.
+#1. Download the script from github by web using `Code` and then `Download ZIP` button.
 
-####2. Use `wget` command:
+#2. Use `wget` command:
 ```bash
 wget https://github.com/Szymon-Kasprzycki/Password-Generator/archive/refs/heads/main.zip
 ```
